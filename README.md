@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Irina 👋
 
-<!--
-**irina-grigoreva/irina-grigoreva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WordPress / WooCommerce Developer with commercial experience building custom functionality, Gutenberg blocks, REST API integrations, and responsive frontend interfaces.
 
-Here are some ideas to get you started:
+I work with modern WordPress development practices including custom plugins, Vue 3 integrations, accessibility improvements, performance optimization, and scalable frontend architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- WordPress
+- WooCommerce
+- PHP
+- JavaScript
+- Vue 3
+- Astro
+- React / Gutenberg
+- REST API
+- MySQL
+- SCSS / CSS
+- Docker
+- Git
+
+## What I Focus On
+
+- Custom WordPress functionality
+- Gutenberg block development
+- Vue.js integrations inside WordPress
+- WooCommerce customizations
+- Accessibility-focused frontend development
+- Performance optimization
+- API integrations
+- Responsive UI development
+
+## Featured Projects
+
+### Advanced Gutenberg Blocks Showcase
+Portfolio WordPress plugin demonstrating custom Gutenberg blocks, responsive layouts, and accessibility-focused frontend markup.
+
+### Guestbook
+Dockerized PHP guestbook application demonstrating validation, MySQL persistence, and clean backend structure.
+
+### Project Calculator
+Interactive Vue.js calculator for estimating project scope, timelines, and frontend interactions.
+
+## Currently Improving
+
+- Advanced Gutenberg development
+- Vue 3 architecture
+- Modern frontend workflows
+- Scalable WordPress applications
+
+---
+Open to remote WordPress / WooCommerce / Frontend development opportunities.
