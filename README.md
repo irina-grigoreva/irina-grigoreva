@@ -1,23 +1,38 @@
 # Hi, I'm Irina 👋
 
-WordPress / WooCommerce Developer with commercial experience building custom functionality, Gutenberg blocks, REST API integrations, and responsive frontend interfaces.
+WordPress / WooCommerce Developer with commercial experience building custom WordPress functionality, Gutenberg blocks, REST API integrations, and responsive frontend interfaces.
 
-I work with modern WordPress development practices including custom plugins, Vue 3 integrations, accessibility improvements, performance optimization, and scalable frontend architecture.
+I work with modern WordPress development practices including Vue 3 integrations, accessibility improvements, performance optimization, and scalable frontend architecture.
+
+---
 
 ## Tech Stack
 
+### Backend
+- PHP
 - WordPress
 - WooCommerce
-- PHP
+- MySQL
+- REST API
+- Docker
+
+### Frontend
 - JavaScript
 - Vue 3
 - Astro
 - React / Gutenberg
-- REST API
-- MySQL
 - SCSS / CSS
-- Docker
+- Responsive UI Development
+
+### Tools & Workflow
 - Git
+- Pantheon
+- Composer
+- npm
+- Vite
+- Webpack
+
+---
 
 ## What I Focus On
 
@@ -28,25 +43,61 @@ I work with modern WordPress development practices including custom plugins, Vue
 - Accessibility-focused frontend development
 - Performance optimization
 - API integrations
-- Responsive UI development
+- Responsive interfaces
+- Component-based frontend architecture
+
+---
 
 ## Featured Projects
 
-### Advanced Gutenberg Blocks Showcase
-Portfolio WordPress plugin demonstrating custom Gutenberg blocks, responsive layouts, and accessibility-focused frontend markup.
+### 🔹 Advanced Gutenberg Blocks Showcase
+Portfolio WordPress plugin demonstrating custom Gutenberg blocks, Inspector Controls, responsive layouts, and accessibility-focused frontend markup.
 
-### Guestbook
-Dockerized PHP guestbook application demonstrating validation, MySQL persistence, and clean backend structure.
+**Tech:** WordPress, Gutenberg, React, JavaScript, SCSS, PHP
 
-### Project Calculator
-Interactive Vue.js calculator for estimating project scope, timelines, and frontend interactions.
+---
+
+### 🔹 Guestbook
+Dockerized PHP guestbook application demonstrating form validation, MySQL persistence, clean backend structure, and secure form handling.
+
+**Tech:** PHP, MySQL, Docker, JavaScript, SCSS
+
+---
+
+### 🔹 Project Calculator
+Interactive Vue.js calculator application for estimating project scope, timelines, and frontend interactions.
+
+**Tech:** Vue 3, JavaScript, SCSS, Vite
+
+---
 
 ## Currently Improving
 
 - Advanced Gutenberg development
 - Vue 3 architecture
-- Modern frontend workflows
 - Scalable WordPress applications
+- Frontend performance optimization
+- Accessibility-first UI development
 
 ---
-Open to remote WordPress / WooCommerce / Frontend development opportunities.
+
+## GitHub Goals
+
+- Building production-style portfolio projects
+- Improving frontend architecture skills
+- Creating reusable WordPress/Gutenberg solutions
+- Sharing clean and maintainable code
+
+---
+
+## Open To
+
+- Remote WordPress development opportunities
+- WooCommerce projects
+- Gutenberg development
+- Frontend / Vue.js collaboration
+- Long-term product development
+
+---
+
+📫 Feel free to explore my repositories and connect with me.
