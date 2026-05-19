@@ -1,6 +1,6 @@
 # Hi, I'm Irina 👋
 
-WordPress / WooCommerce Developer with commercial experience building custom WordPress functionality, Gutenberg blocks, REST API integrations, and responsive frontend interfaces.
+Frontend & WordPress Developer with commercial experience building custom WordPress functionality, Gutenberg blocks, REST API integrations, and responsive frontend interfaces.
 
 I work with modern WordPress development practices including Vue 3 integrations, accessibility improvements, performance optimization, and scalable frontend architecture.
 
@@ -49,6 +49,13 @@ I work with modern WordPress development practices including Vue 3 integrations,
 ---
 
 ## Featured Projects
+
+### 🔹 Accessible Vue Search Select
+Production-style Vue 3 combobox/listbox component built with accessibility-first principles, reusable architecture, keyboard interactions, TypeScript support, and configurable rendering patterns.
+
+**Tech:** Vue 3, TypeScript, Vite, Vitest, Accessibility (WAI-ARIA), SCSS, npm
+
+---
 
 ### 🔹 Advanced Gutenberg Blocks Showcase
 Portfolio WordPress plugin demonstrating custom Gutenberg blocks, Inspector Controls, responsive layouts, and accessibility-focused frontend markup.
