@@ -1,8 +1,8 @@
 # Hi, I'm Irina 👋
 
-Frontend & WordPress Developer with commercial experience building custom WordPress functionality, Gutenberg blocks, REST API integrations, and responsive frontend interfaces.
+Frontend & WordPress Developer with 8+ years of commercial experience in custom WordPress development, Gutenberg blocks, WooCommerce functionality, REST API integrations, and responsive frontend interfaces.
 
-I work with modern WordPress development practices including Vue 3 integrations, accessibility improvements, performance optimization, and scalable frontend architecture.
+My work usually includes custom plugin development, WooCommerce checkout and dashboard customization, admin-side features, Vue 3 integrations, accessibility fixes, and performance improvements. I focus on writing maintainable code and building features that can be safely used and extended in production.
 
 ---
 
