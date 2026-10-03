@@ -19,6 +19,7 @@ My work usually includes custom plugin development, WooCommerce checkout and das
 ### Frontend
 - JavaScript
 - Vue 3
+- Nuxt.js
 - Astro
 - React / Gutenberg
 - SCSS / CSS
