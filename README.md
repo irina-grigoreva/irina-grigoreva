@@ -51,4 +51,4 @@ Custom Gutenberg blocks with Inspector Controls, responsive layouts, and semanti
 
 Remote full-time or contract roles: **Frontend / Full-Stack (Vue, Nuxt, TypeScript)** and **Senior WordPress / WooCommerce** development. Long-term product work preferred.
 
-📫 **Contact:** irabulich@gmail.com · @ira_grigoreva_k [Telegram]
+📫 **Contact:** [irabulich@gmail.com](mailto:irabulich@gmail.com) · [Telegram: @ira_grigoreva_k](https://t.me/ira_grigoreva_k)
