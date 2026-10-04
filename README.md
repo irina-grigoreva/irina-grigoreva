@@ -1,111 +1,54 @@
 # Hi, I'm Irina 👋
 
-Frontend & WordPress Developer with 8+ years of commercial experience in custom WordPress development, Gutenberg blocks, WooCommerce functionality, REST API integrations, and responsive frontend interfaces.
+**Full-Stack Web Developer · Vue / Nuxt · TypeScript · WordPress / WooCommerce · Three.js**
 
-My work usually includes custom plugin development, WooCommerce checkout and dashboard customization, admin-side features, Vue 3 integrations, accessibility fixes, and performance improvements. I focus on writing maintainable code and building features that can be safely used and extended in production.
+I build production-grade web products end to end, from interactive 3D interfaces and typed APIs to WooCommerce checkouts that take real orders. 8+ years of commercial experience turning complex business requirements into fast, accessible, maintainable code.
 
----
+- 🧩 **Product thinking:** I ship complete features (UI, API, database, e-commerce integration), not isolated tickets
+- ♿ **Accessibility and performance** are part of the build, not an afterthought
+- 🛠 **Maintainable by design:** typed code, tests, reusable components, clear documentation
 
-## Tech Stack
+## 🚀 Featured Projects
 
-### Backend
-- PHP
-- WordPress
-- WooCommerce
-- MySQL
-- REST API
-- Docker
+### [VARYFORM: Parametric 3D Product Configurator](https://github.com/irina-grigoreva/varyform-3d-configurator) · [Live demo](https://varyform-3d-configurator-ar9y.vercel.app)
+Full-stack configurator for made-to-order products: real-time 3D preview, CAD-like technical drawings, automatic bill of materials, PDF/DXF export, and WooCommerce integration.
+`Nuxt` `Vue 3` `TypeScript` `Three.js` `Fastify` `PostgreSQL` `Drizzle ORM` `WooCommerce`
 
-### Frontend
-- JavaScript
-- Vue 3
-- Nuxt.js
-- Astro
-- React / Gutenberg
-- SCSS / CSS
-- Responsive UI Development
+### [Interactive 3D Aircraft Landing](https://github.com/irina-grigoreva/interactive-3d-aircraft-landing) · [Live demo](https://interactive-3d-aircraft-landing.vercel.app/)
+E-commerce landing page with a WebGL product model, mouse and touch controls, animations, and a responsive, accessible UI. Unofficial portfolio concept.
+`Nuxt` `Vue 3` `Three.js` `WebGL` `SCSS`
 
-### Tools & Workflow
-- Git
-- Pantheon
-- Composer
-- npm
-- Vite
-- Webpack
+### [WP UTM Sticky](https://github.com/irina-grigoreva/wp-utm-sticky)
+WordPress plugin that keeps UTM attribution across links, forms, email templates, and WooCommerce orders, so marketing can see which campaign produced each sale.
+`PHP` `WordPress` `WooCommerce` `JavaScript`
 
----
+### [Accessible Vue Search Select](https://github.com/irina-grigoreva/accessible-vue-search-select)
+Reusable Vue 3 combobox/listbox built to WAI-ARIA patterns: full keyboard navigation, TypeScript API, configurable rendering, unit tests.
+`Vue 3` `TypeScript` `Vitest` `WAI-ARIA`
 
-## What I Focus On
+### [Advanced Gutenberg Blocks Showcase](https://github.com/irina-grigoreva/advanced-gutenberg-blocks-showcase)
+Custom Gutenberg blocks with Inspector Controls, responsive layouts, and semantic, accessible markup.
+`WordPress` `Gutenberg` `React` `PHP`
 
-- Custom WordPress functionality
-- Gutenberg block development
-- Vue.js integrations inside WordPress
-- WooCommerce customizations
-- Accessibility-focused frontend development
-- Performance optimization
-- API integrations
-- Responsive interfaces
-- Component-based frontend architecture
+## 🧰 Tech Stack
 
----
+| Area | Technologies |
+|---|---|
+| **Frontend** | Vue 3, Nuxt, TypeScript, JavaScript, React (Gutenberg), Astro, SCSS |
+| **3D / Graphics** | Three.js, WebGL, SVG, PDF/DXF generation |
+| **Backend** | PHP, Node.js (Fastify), REST API, PostgreSQL, MySQL, Drizzle ORM |
+| **WordPress** | Custom plugins, Gutenberg blocks, WooCommerce (checkout, dashboards, orders) |
+| **Tooling** | Git, Docker, Vite, Webpack, Vitest, Composer, Vercel, Pantheon |
 
-## Featured Projects
+## 💼 What I Can Do for Your Team
 
-### 🔹 Accessible Vue Search Select
-Production-style Vue 3 combobox/listbox component built with accessibility-first principles, reusable architecture, keyboard interactions, TypeScript support, and configurable rendering patterns.
+- Build product configurators, calculators, and other interactive tools tied to e-commerce
+- Develop custom WordPress and WooCommerce functionality that is safe to extend in production
+- Integrate Vue/Nuxt frontends with WordPress, REST APIs, and third-party services
+- Bring existing interfaces up to accessibility and performance standards
 
-**Tech:** Vue 3, TypeScript, Vite, Vitest, Accessibility (WAI-ARIA), SCSS, npm
+## 🤝 Open To
 
----
+Remote full-time or contract roles: **Frontend / Full-Stack (Vue, Nuxt, TypeScript)** and **Senior WordPress / WooCommerce** development. Long-term product work preferred.
 
-### 🔹 Advanced Gutenberg Blocks Showcase
-Portfolio WordPress plugin demonstrating custom Gutenberg blocks, Inspector Controls, responsive layouts, and accessibility-focused frontend markup.
-
-**Tech:** WordPress, Gutenberg, React, JavaScript, SCSS, PHP
-
----
-
-### 🔹 Guestbook
-Dockerized PHP guestbook application demonstrating form validation, MySQL persistence, clean backend structure, and secure form handling.
-
-**Tech:** PHP, MySQL, Docker, JavaScript, SCSS
-
----
-
-### 🔹 Project Calculator
-Interactive Vue.js calculator application for estimating project scope, timelines, and frontend interactions.
-
-**Tech:** Vue 3, JavaScript, SCSS, Vite
-
----
-
-## Currently Improving
-
-- Advanced Gutenberg development
-- Vue 3 architecture
-- Scalable WordPress applications
-- Frontend performance optimization
-- Accessibility-first UI development
-
----
-
-## GitHub Goals
-
-- Building production-style portfolio projects
-- Improving frontend architecture skills
-- Creating reusable WordPress/Gutenberg solutions
-- Sharing clean and maintainable code
-
----
-
-## Open To
-
-- Remote WordPress development opportunities
-- WooCommerce projects
-- Gutenberg development
-- Frontend / Vue.js collaboration
-- Long-term product development
-
----
-
-📫 Feel free to explore my repositories and connect with me.
+📫 **Contact:** irabulich@gmail.com · @ira_grigoreva_k [Telegram]
